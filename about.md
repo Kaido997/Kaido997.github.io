@@ -19,16 +19,5 @@ Programming and finance are my passion, which led me to learn about the blockcha
 
 ### MY SKILLS
 
-### Django  &ensp; Python &ensp; Redis &ensp; MongoDB &ensp; Solidity &ensp; JavaScript <br>
- &ensp;<img src="https://drive.google.com/uc?export=view&id=1l0c80Wct9Ul5nWiuWY1xRsRRmerVFAuL"
-     alt="Django" width=50, height=50/>
- &ensp;  &ensp; <img src="https://drive.google.com/uc?export=view&id=1F1lgx__ezJlLPrFoA04JjrwAxFUzw0tE"
-     alt="Python" width=50, height=50/>
-  &ensp;  &ensp; <img src="https://drive.google.com/uc?export=view&id=1F1lgx__ezJlLPrFoA04JjrwAxFUzw0tE"
-     alt="Redis" width=50, height=50/>
-      &ensp;  &ensp; <img src="https://drive.google.com/uc?export=view&id=1F1lgx__ezJlLPrFoA04JjrwAxFUzw0tE"
-     alt="Solidity" width=50, height=50/>
-      &ensp;  &ensp; <img src="https://drive.google.com/uc?export=view&id=1F1lgx__ezJlLPrFoA04JjrwAxFUzw0tE"
-     alt="JavaScript" width=50, height=50/>
-      &ensp;  &ensp; <img src="https://drive.google.com/uc?export=view&id=1F1lgx__ezJlLPrFoA04JjrwAxFUzw0tE"
-     alt="Mongo DB" width=50, height=50/>
+![skills](https://drive.google.com/uc?export=view&id=1LKNR27mdqpWVrRq27XzwPK-cH_4R9yxD)
+
