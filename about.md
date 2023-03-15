@@ -28,6 +28,4 @@ In my studies in Start2Impact I carried out 5 practical projects corrected by pr
 Here is the link to my [Github](https://github.com/Kaido997) 
 You can contact me here on linkedin or via email: alanpirro.work@gmail.com
 
-### MY SKILLS
-![skills](https://drive.google.com/uc?export=view&id=1LKNR27mdqpWVrRq27XzwPK-cH_4R9yxD)
 
