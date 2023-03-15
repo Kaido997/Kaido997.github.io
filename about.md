@@ -25,7 +25,7 @@ In my studies in Start2Impact I carried out 5 practical projects corrected by pr
 - Solidity 
 - Web3 
 
-Here is the link to my [Github](https://github.com/Kaido997) 
+Here is the link to my [Github](https://github.com/Kaido997)<br>
 You can contact me here on linkedin or via email: alanpirro.work@gmail.com
 
 
